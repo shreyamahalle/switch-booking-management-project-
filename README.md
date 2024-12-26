@@ -20,7 +20,8 @@ The Core Java switch Booking Management Project is a basic Java application that
 
 ## **Steps**
 - Clone the repository:
-  ```shell  git clone %%% "git@github.com:shreyamahalle/core-java-if-booking-management-project.git" 
+  ```shell
+   git clone %%% "git@github.com:shreyamahalle/core-java-if-booking-management-project.git" 
 - Navigate to the project directory:
 - cd core-java-if-booking-project
 - Open the project in your preferred IDE.
